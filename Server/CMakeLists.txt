@@ -1,6 +1,4 @@
-﻿cmake_minimum_required(VERSION 3.13)
-
-add_executable (Server "Server.cpp")
+﻿add_executable (Server "Server.cpp")
 
 set_property(TARGET Server PROPERTY CXX_STANDARD 20)
 
